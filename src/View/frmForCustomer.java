@@ -13,7 +13,6 @@ import Model.Customer;
 import Model.DBConnection;
 import Model.Order;
 import Model.Product;
-import com.sun.xml.internal.ws.handler.HandlerException;
 import java.awt.HeadlessException;
 import java.awt.Image;
 import java.awt.event.ActionEvent;
